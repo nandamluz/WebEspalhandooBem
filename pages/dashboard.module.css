@@ -1,0 +1,32 @@
+
+
+
+@media  screen and (max-width: 768px) {
+    .container{
+        width: max-content;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        
+    }
+    
+    
+    .cards{
+        margin-top: 90px;
+       
+        justify-content: center;
+        background-color:#ffffff;
+        box-shadow: 0 4px 4px -2px #989898;
+        -moz-box-shadow: 0 4px 4px -2px #a9a9a9;
+        -webkit-box-shadow: 0 4px 4px -2px #a9a9a9;
+      
+    }
+   
+}
+.cards{
+    margin-top: 90px;
+    margin-left: 40px;
+    margin-right: 40px;
+
+}
+
