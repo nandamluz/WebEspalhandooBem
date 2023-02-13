@@ -18,7 +18,7 @@ Passo-a-passo para executar e para ter um ambiente de desenvolvimento em execuç
 
 - npm run dev 
 
-## 🛠️ Construído com
+## 🛠️ Construção
 
 Mencione as ferramentas que você usou para criar seu projeto
 
